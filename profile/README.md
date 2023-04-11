@@ -1,4 +1,5 @@
 # Gamma Online Judge
 
-An online judge for Maratona UnB de Programação
+Juíz online voltado para a Maratona UnB de Programação
+
 
